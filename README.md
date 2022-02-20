@@ -1,1 +1,1 @@
- [Project](https://Kapita297.gihub.io/React-Food).
+ [Project](https://kapita297.github.io/React-Food/).
