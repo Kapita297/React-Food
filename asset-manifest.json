@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Kapita297.gihub.io/React-Food/static/css/main.659b7e86.css",
+    "main.js": "/Kapita297.gihub.io/React-Food/static/js/main.262ac879.js",
+    "index.html": "/Kapita297.gihub.io/React-Food/index.html",
+    "main.659b7e86.css.map": "/Kapita297.gihub.io/React-Food/static/css/main.659b7e86.css.map",
+    "main.262ac879.js.map": "/Kapita297.gihub.io/React-Food/static/js/main.262ac879.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.659b7e86.css",
+    "static/js/main.262ac879.js"
+  ]
+}
